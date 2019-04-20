@@ -1,4 +1,5 @@
 docker build -t mock-server .
+
 docker run --rm -p 6789:6789 mock-server:latest
 
 curl -X GET \
