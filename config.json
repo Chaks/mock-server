@@ -1,0 +1,18 @@
+[
+    {
+        "request": {
+            "uri": "/api/users"
+        },
+        "response": {
+            "file": "mocks/users/list.json"
+        }
+    },
+    {
+        "request": {
+            "uri": "/api/users/a16bedd5-7dcf-4e6b-b31d-01ae868d3fbc"
+        },
+        "response": {
+            "file": "mocks/users/a16bedd5-7dcf-4e6b-b31d-01ae868d3fbc.json"
+        }
+    }
+]

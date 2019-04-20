@@ -1,0 +1,77 @@
+[
+    {
+        "id": "a16bedd5-7dcf-4e6b-b31d-01ae868d3fbc",
+        "userName": "cdarim",
+        "firstName": "Chakravarthi",
+        "lastName": "Darimireddi",
+        "email": "",
+        "address": {
+            "line1": "",
+            "line2": "",
+            "line3": "",
+            "city": "",
+            "state": "",
+            "zipcode": ""
+        }
+    },
+    {
+        "id": "5666a810-681a-4102-8a4b-b18b48b61c37",
+        "userName": "lneuma",
+        "firstName": "Laughing",
+        "lastName": "Neumann",
+        "email": "",
+        "address": {
+            "line1": "",
+            "line2": "",
+            "line3": "",
+            "city": "",
+            "state": "",
+            "zipcode": ""
+        }
+    },
+    {
+        "id": "f5141bdd-981e-4b02-be95-dd085321a04f",
+        "userName": "jnash1",
+        "firstName": "Jovial",
+        "lastName": "Nash",
+        "email": "",
+        "address": {
+            "line1": "",
+            "line2": "",
+            "line3": "",
+            "city": "",
+            "state": "",
+            "zipcode": ""
+        }
+    },
+    {
+        "id": "765931d2-1458-47ca-9998-12c4399af2a9",
+        "userName": "earyab",
+        "firstName": "Elated",
+        "lastName": "Aryabhata",
+        "email": "",
+        "address": {
+            "line1": "",
+            "line2": "",
+            "line3": "",
+            "city": "",
+            "state": "",
+            "zipcode": ""
+        }
+    },
+    {
+        "id": "aa5d744a-91d2-40d7-9ea9-737515393389",
+        "userName": "amclar",
+        "firstName": "Adoring",
+        "lastName": "Mclaren",
+        "email": "",
+        "address": {
+            "line1": "",
+            "line2": "",
+            "line3": "",
+            "city": "",
+            "state": "",
+            "zipcode": ""
+        }
+    }
+]
